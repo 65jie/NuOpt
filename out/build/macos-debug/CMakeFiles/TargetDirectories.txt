@@ -1,0 +1,8 @@
+/Users/peterlau/GitHub/cpp_cmake_gtest_sample/out/build/macos-debug/CMakeFiles/edit_cache.dir
+/Users/peterlau/GitHub/cpp_cmake_gtest_sample/out/build/macos-debug/CMakeFiles/rebuild_cache.dir
+/Users/peterlau/GitHub/cpp_cmake_gtest_sample/out/build/macos-debug/src/CMakeFiles/SampleLib.dir
+/Users/peterlau/GitHub/cpp_cmake_gtest_sample/out/build/macos-debug/src/CMakeFiles/edit_cache.dir
+/Users/peterlau/GitHub/cpp_cmake_gtest_sample/out/build/macos-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/peterlau/GitHub/cpp_cmake_gtest_sample/out/build/macos-debug/test/CMakeFiles/SampleTest.dir
+/Users/peterlau/GitHub/cpp_cmake_gtest_sample/out/build/macos-debug/test/CMakeFiles/edit_cache.dir
+/Users/peterlau/GitHub/cpp_cmake_gtest_sample/out/build/macos-debug/test/CMakeFiles/rebuild_cache.dir
