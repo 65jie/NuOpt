@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.8)
 
-set(TARGET_NAME SampleLib)
+set(TARGET_NAME NuOptLib)
 
 file(GLOB C_SRC1_FILES "*.cpp")
 
@@ -18,4 +18,4 @@ set_target_properties(${TARGET_NAME} PROPERTIES VERSION "${PROJECT_VERSION_MAJOR
 set_target_properties(${TARGET_NAME} PROPERTIES CLEAN_DIRECT_OUTPUT 1)
 
 enable_testing()
-add_test(SampleTest ${PROJECT_BINARY_DIR}/SampleTest)
+add_test(NuOptTest ${PROJECT_BINARY_DIR}/NuOptTest)

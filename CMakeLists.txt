@@ -1,4 +1,4 @@
-﻿project ("cpp_cmake_gtest_sample")
+﻿project ("Numerical-Optimization")
 
 cmake_minimum_required (VERSION 3.8)
 set (CMAKE_CXX_STANDARD 20)

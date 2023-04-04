@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.8)
 
-set(TARGET_NAME SampleTest)
+set(TARGET_NAME NuOptTest)
 
 file(GLOB C_SRC1_FILES "*.cpp")
 
@@ -19,8 +19,8 @@ endif(WIN32)
 
 add_executable (${TARGET_NAME} ${C_SRC1_FILES} )
 
-set(SAMPLE_LIB optimized SampleLib debug SampleLib_d)
-target_link_libraries(${TARGET_NAME} gtest gtest_main ${SAMPLE_LIB})
+set(NU_OPT_LIB optimized NuOptLib debug NuOptLib_d)
+target_link_libraries(${TARGET_NAME} gtest gtest_main ${NU_OPT_LIB})
 set_target_properties(${TARGET_NAME} PROPERTIES DEBUG_POSTFIX ${CMAKE_DEBUG_POSTFIX})
 
 # copy files after building
